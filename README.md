@@ -3,7 +3,8 @@
 **Modern publishing platform built with React and TypeScript**  
 *Showcasing exceptional literary works since 1997*
 
-![Project Banner/Screenshot]
+![Project Banner/Screenshot] ![image](https://github.com/user-attachments/assets/4848ed30-522d-4d87-93de-5b723b86159f)
+
 
 ## 🌟 Features
 
@@ -47,18 +48,37 @@ npm list @types/react @types/react-dom typescript
 npx tsc --version
 
 ----------------------------------------
-### Dependency Management
+## Dependency Management
 
-# Check your dependencies:
-
+# Ensure core dependencies are installed
 npm install react @types/react react-dom @types/react-dom
+
+# Audit and fix vulnerabilities (4 found)
+npm audit
+npm audit fix
+# For forced fixes:
+npm audit fix --force
 
 ----------------------------------------
 
+## Development Environment
 
+# Restart workflow:
+1. Stop Vite server (Ctrl+C)
+2. Close VS Code completely
+3. Reopen project
+4. Restart dev server:
+npm run dev
+
+----------------------------------------
+
+📂 Current Environment Status
+
+TypeScript Version: 5.8.3
+React Types: @types/react@18.3.21
+React DOM Types: @types/react-dom@18.3.7
+Build Status: Operational (with 4 moderate vulnerabilities)
 # First, verify your installations:
-
-npm list @types/react @types/react-dom typescript
 
 ----------------------------------------
 
@@ -90,21 +110,6 @@ npm audit fix
 # or if you want to force fixes:
 
 npm audit fix --force
-
-----------------------------------------
-
-
-# Restart your development environment:
-
-Stop your running Vite server (Ctrl+C)
-
-Close VS Code completely
-
-Reopen your project
-
-Start Vite again:
-
-npm run dev
 
 ----------------------------------------
 
