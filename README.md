@@ -24,7 +24,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/zulqarnain-git/western-web-task.git
 
 # Navigate to project directory
 cd western-web-task
