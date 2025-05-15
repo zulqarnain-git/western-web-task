@@ -16,8 +16,10 @@
 
 - **Frontend**: [React/TypeScript]  
 - **Styling**: [Tailwind/Bootstrap , shadcn-ui (UI components), Tailwind CSS (Styling)]
-- 
+  
 ## 📦 Installation
+
+![image](https://github.com/user-attachments/assets/0a3d4c99-59d0-4749-9d66-53d8375883e2)
 
 ```bash
 # Clone the repository
@@ -31,7 +33,4 @@ npm install
 
 # Start development server
 npm run dev
-
----
-![image](https://github.com/user-attachments/assets/b91b33cf-cf62-4255-b2ca-3f329beca43a)
 
