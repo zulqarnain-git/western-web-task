@@ -31,3 +31,6 @@ npm install
 
 # Start development server
 npm run dev
+
+![image](https://github.com/user-attachments/assets/b91b33cf-cf62-4255-b2ca-3f329beca43a)
+
