@@ -7,10 +7,11 @@
 
 ## 🌟 Features
 
-- ✅ Responsive book showcase with featured selections
-- 🔄 Author profiles and biographies
-- 🛡️ Secure newsletter subscription
-- ⚡ Optimized performance with Vite
+- **Frontend**: React 18, TypeScript 5.8.3
+- **Styling**: Tailwind CSS
+- **Build Tool**: Vite
+- **State Management**: React Router
+- **UI Components**: shadcn/ui
 
 ## 🛠️ Technology Stack
 
@@ -24,7 +25,7 @@
 git clone https://github.com/yourusername/project-name.git
 
 # Navigate to project directory
-cd project-name
+cd western-web-task
 
 # Install dependencies
 npm install
@@ -32,11 +33,21 @@ npm install
 # Start development server
 npm run dev
 
-# Install type definitions if you haven't:
+## 📄 Troubleshooting Guide if 
 
+# TypeScript Configuration
+
+# Install type definitions
 npm install --save-dev @types/react @types/react-dom
 
+# Verify installations
+npm list @types/react @types/react-dom typescript
+
+# Check TypeScript version
+npx tsc --version
+
 ----------------------------------------
+### Dependency Management
 
 # Check your dependencies:
 
