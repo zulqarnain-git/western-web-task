@@ -83,11 +83,8 @@ npm run dev
 TypeScript Version: 5.8.3
 React Types: @types/react@18.3.21
 React DOM Types: @types/react-dom@18.3.7
-Build Status: Operational (with 4 moderate vulnerabilities)
-# First, verify your installations:
 
 ----------------------------------------
-
 
 # Check your current TypeScript version:
 
