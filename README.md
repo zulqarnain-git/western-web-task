@@ -19,7 +19,7 @@
   
 ## 📦 Installation
 
-![image](https://github.com/user-attachments/assets/0a3d4c99-59d0-4749-9d66-53d8375883e2)
+![image](https://github.com/user-attachments/assets/0016b31a-dfa3-4ffd-a648-bf1b75318e85)
 
 ```bash
 # Clone the repository
