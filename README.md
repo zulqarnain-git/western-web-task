@@ -3,7 +3,8 @@
 **Modern publishing platform built with React and TypeScript**  
 *Showcasing exceptional literary works*
 
-![Project Banner/Screenshot] ![image](https://github.com/user-attachments/assets/4848ed30-522d-4d87-93de-5b723b86159f)
+*Project Banner*
+![image](https://github.com/user-attachments/assets/4848ed30-522d-4d87-93de-5b723b86159f)
 
 
 ## 🌟 Features
