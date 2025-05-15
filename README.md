@@ -1,36 +1,98 @@
-# 🚀 Western-Web-Task
+# Install type definitions if you haven't:
 
-**A brief description of your project**  
-*Tagline or key feature highlight*
+npm install --save-dev @types/react @types/react-dom
 
-![Project Banner/Screenshot]
+----------------------------------------
 
-## 🌟 Features
+# Check your dependencies:
 
-- ✅ Feature 1 description
-- 🔄 Feature 2 description  
-- 🛡️ Feature 3 description
-- ⚡ Feature 4 description
+npm install react @types/react react-dom @types/react-dom
 
-## 🛠️ Technology Stack
+----------------------------------------
 
-- **Frontend**: [React/TypeScript]  
-- **Styling**: [Tailwind/Bootstrap , shadcn-ui (UI components), Tailwind CSS (Styling)]
-  
-## 📦 Installation
 
-![image](https://github.com/user-attachments/assets/19288cf4-407e-4e9a-a3b3-f69218786e14)
+# First, verify your installations:
 
-```bash
-# Clone the repository
-git clone https://github.com/zulqarnain-git/western-web-task.git
+npm list @types/react @types/react-dom typescript
 
-# Navigate to project directory
-cd project-name
+----------------------------------------
 
-# Install dependencies
-npm install
 
-# Start development server
+# Check your current TypeScript version:
+
+tsc --version
+
+# or if tsc isn't available
+
+npx tsc --version
+
+----------------------------------------
+
+
+# For the vulnerabilities (4 moderate severity):
+
+npm audit
+
+----------------------------------------
+
+
+# Then either:
+
+npm audit fix
+
+----------------------------------------
+
+# or if you want to force fixes:
+
+npm audit fix --force
+
+----------------------------------------
+
+
+# Restart your development environment:
+
+Stop your running Vite server (Ctrl+C)
+
+Close VS Code completely
+
+Reopen your project
+
+Start Vite again:
+
 npm run dev
+
+----------------------------------------
+
+# Current Status my project:
+
+TypeScript Version: 5.8.3 (this is recent)
+
+# React Types:
+
+@types/react@18.3.21
+
+@types/react-dom@18.3.7
+
+----------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
