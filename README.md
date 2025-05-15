@@ -77,7 +77,7 @@ npm run dev
 
 ----------------------------------------
 
-📂 Current Environment Status
+## Current Environment Status
 
 TypeScript Version: 5.8.3
 React Types: @types/react@18.3.21
