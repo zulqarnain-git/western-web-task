@@ -1,9 +1,9 @@
-# 🚀 Project Name
+# 🚀 Western-Web-Task
 
 **A brief description of your project**  
 *Tagline or key feature highlight*
 
-![Project Banner/Screenshot](optional-image-url.png)
+![Project Banner/Screenshot]
 
 ## 🌟 Features
 
@@ -21,7 +21,7 @@
 
 ```bash
 # Clone the repository
-git clone 
+git clone https://github.com/zulqarnain-git/western-web-task.git
 
 # Navigate to project directory
 cd project-name
