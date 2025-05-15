@@ -1,7 +1,7 @@
 # 🚀 western-web-task
 
 **Modern publishing platform built with React and TypeScript**  
-*Showcasing exceptional literary works since 1997*
+*Showcasing exceptional literary works*
 
 ![Project Banner/Screenshot] ![image](https://github.com/user-attachments/assets/4848ed30-522d-4d87-93de-5b723b86159f)
 
@@ -34,7 +34,12 @@ npm install
 # Start development server
 npm run dev
 
-## 📄 Troubleshooting Guide if 
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
+
+## Troubleshooting Guide if 
 
 # TypeScript Configuration
 
