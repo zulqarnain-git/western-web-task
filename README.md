@@ -1,16 +1,16 @@
 # 🚀 western-web-task
 
-**A brief description of your project**  
-*Tagline or key feature highlight*
+**Modern publishing platform built with React and TypeScript**  
+*Showcasing exceptional literary works since 1997*
 
 ![Project Banner/Screenshot]
 
 ## 🌟 Features
 
-- ✅ Feature 1 description
-- 🔄 Feature 2 description  
-- 🛡️ Feature 3 description
-- ⚡ Feature 4 description
+- ✅ Responsive book showcase with featured selections
+- 🔄 Author profiles and biographies
+- 🛡️ Secure newsletter subscription
+- ⚡ Optimized performance with Vite
 
 ## 🛠️ Technology Stack
 
