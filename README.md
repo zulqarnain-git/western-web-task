@@ -3,7 +3,7 @@
 **Modern publishing platform built with React and TypeScript**  
 *Showcasing exceptional literary works*
 
-1. **Live Demo Link**: The live demo on Vercel click here: [Vercel Demo](https://western-web-task.vercel.app/)
+1. **Live Demo Link**: The live demo of website click here: [Vercel Demo](https://western-web-task.vercel.app/)
 
 *Project Banner*
 
